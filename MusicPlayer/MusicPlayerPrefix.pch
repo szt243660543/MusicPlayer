@@ -1,0 +1,27 @@
+//
+//  MusicPlayerPrefix.pch
+//  MusicPlayer
+//
+//  Created by szt on 16/5/10.
+//  Copyright © 2016年 szt. All rights reserved.
+//
+
+#ifndef MusicPlayerPrefix_pch
+#define MusicPlayerPrefix_pch
+
+#import "UIView+Extension.h"
+#import "Consts.h"
+#import "UIBarButtonItem+BarButtonItem.h"
+#import "LKDBHelper.h"
+#import "UIImageView+WebCache.h"
+#import "NSString+SizeOfTextLabel.h"
+#import "MJExtension.h"
+#import "MBProgressHUD+MJ.h"
+#import "AFNetworking.h"
+#import "AudioPlayer.h"
+#import "ClockTime.h"
+#import "MJRefresh.h"
+#import "FileTools.h"
+#import "AnimationTool.h"
+
+#endif
